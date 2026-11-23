@@ -1,0 +1,9 @@
+{
+  "job_id": "job_c30801fc9f41",
+  "sourceRepoUrl": "https://github.com/shashirajraja/Train-Ticket-Reservation-System",
+  "targetJavaVersion": "21",
+  "actualJavaVersion": "21",
+  "status": "MIGRATION_CHECKPOINT",
+  "overallMigrationStatus": "PARTIALLY_COMPLETED",
+  "migration_date": ""
+}

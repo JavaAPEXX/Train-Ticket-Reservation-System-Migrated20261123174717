@@ -1,0 +1,9 @@
+/build/
+/target/
+
+node_modules/
+target/
+build/
+.gradle/
+dist/
+.cache/
